@@ -10,7 +10,7 @@ The analysis accompanies the study:
 
 The single-cell RNA-seq dataset is available from the NCBI Gene Expression Omnibus:
 
-**GEO accession: [GSEXXXX](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSEXXXX)**
+**GEO accession: [GSE317439](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE317439)**
 
 Replace `GSEXXXX` with the final GEO accession number before publishing this repository.
 
